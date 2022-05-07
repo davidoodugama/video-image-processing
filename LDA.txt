@@ -1,0 +1,18 @@
+0
+0.066*"guy" + 0.066*"extract" + 0.035*"nightly batch" + 0.035*"user requirement" + 0.035*"typical datum warehouse architecture" + 0.035*"datum transformation" + 0.035*"datum load" + 0.035*"correlation" + 0.035*"presentation" + 0.035*"data warehouse analyst"
+1
+0.071*"datum" + 0.071*"last part" + 0.071*"summary datum" + 0.071*"business" + 0.037*"data warehouse" + 0.037*"first step" + 0.037*"us" + 0.037*"approach" + 0.037*"large relational database" + 0.037*"technology"
+2
+0.043*"salesforce datum" + 0.043*"multi dimensional datum" + 0.043*"business" + 0.043*"datum state area" + 0.043*"general report" + 0.043*"productivity" + 0.043*"query" + 0.043*"various source" + 0.043*"process" + 0.043*"roll drill"
+3
+0.306*"datum" + 0.091*"data warehouse" + 0.038*"user" + 0.038*"datum warehouse" + 0.038*"metadata" + 0.020*"extract" + 0.020*"olap" + 0.020*"data warehouse use" + 0.020*"pattern" + 0.020*"source"
+4
+0.071*"data warehouse" + 0.037*"quick summary" + 0.037*"user requirement" + 0.037*"data" + 0.037*"separate video" + 0.037*"next step" + 0.037*"etl tool etl stand" + 0.037*"web server log third party datum" + 0.037*"important aspect" + 0.037*"channel"
+5
+0.096*"video" + 0.051*"extract" + 0.051*"datum source layer" + 0.051*"single staging area" + 0.051*"staging area" + 0.051*"future video" + 0.051*"many different dimension" + 0.051*"various property" + 0.005*"datum" + 0.005*"data warehouse"
+6
+0.062*"previous video" + 0.062*"warehouse" + 0.062*"various datum source" + 0.033*"standard architecture" + 0.033*"decision" + 0.033*"datum source layer" + 0.033*"erp system" + 0.033*"region" + 0.033*"multidimensional analytical query" + 0.033*"relationship"
+7
+0.186*"information" + 0.034*"summary datum" + 0.034*"video" + 0.034*"datum source layer" + 0.034*"datum mining process" + 0.034*"datum warehouse architecture" + 0.034*"staging area" + 0.034*"typical architecture" + 0.034*"name" + 0.034*"example"
+8
+0.088*"organization" + 0.046*"hope" + 0.046*"collection" + 0.046*"part" + 0.046*"detail" + 0.046*"one common area" + 0.046*"sap crm system" + 0.046*"warehouse base" + 0.046*"first layer" + 0.046*"online analytical processing"
